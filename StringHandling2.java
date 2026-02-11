@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
-public class StringConversionExample {
+public class StringHandling2 {
     public static void main(String[] args) {
         // String to integer
         String strInt = "123";

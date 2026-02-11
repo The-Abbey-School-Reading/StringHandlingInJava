@@ -1,4 +1,4 @@
-public class StringHandlingExample {
+public class StringHandling1 {
     public static void main(String[] args) {
         // String handling
         String str = "Hello, World!";
